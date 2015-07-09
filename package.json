@@ -1,0 +1,17 @@
+{
+    "name"       : "giant-namespace",
+    "version"    : "0.0.0",
+    "description": "Namespace for Giant",
+    "keywords"   : [
+        "giant",
+        "namespace"
+    ],
+    "author"     : "Dan Stocker <dan@kwaia.com>",
+    "copyright"  : "Copyright (c) 2015 Dan Stocker",
+    "license"    : "MIT",
+    "repository" : {
+        "type": "git",
+        "url" : "git@github.com:giantjs/giant-namespace.git"
+    },
+    "main"       : "giant-namespace.js"
+}
