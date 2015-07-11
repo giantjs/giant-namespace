@@ -1,4 +1,7 @@
-Namespace for the Giant framework. [http://giantjs.org](http://giantjs.org)
+Namespace module for Giant
+==========================
+
+[Web](http://giantjs.org) [Npm](https://www.npmjs.com/~giantjs) [GitHub](https://github.com/giantjs)
 
 Individual Giant modules require this package to maintain a singular namespace when running under Node.
 
