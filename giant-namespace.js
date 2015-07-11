@@ -1,6 +1,7 @@
 /*jshint node:true */
+
 /** @namespace */
-var giant = giant || require('giant-namespace');
+var giant = {};
 
 if (typeof module !== 'undefined') {
     module.exports = giant;
