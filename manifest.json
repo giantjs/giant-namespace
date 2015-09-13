@@ -2,7 +2,8 @@
   "main": {
     "assets": {
       "js": [
-        "src/namespace.js"
+        "src/namespace.js",
+        "src/exports.js"
       ]
     }
   }
